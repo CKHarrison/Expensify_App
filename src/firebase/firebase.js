@@ -44,6 +44,7 @@ export {firebase, database as default};
 //   console.log(expenses);
 // });
 
+// PARSING DATA FROM FIREBASE
 // database.ref('expenses')
 //   .once('value')
 //   .then((snapshot) => {
